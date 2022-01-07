@@ -2,6 +2,6 @@ Download this Repo and load in in a Java IDE such as Eclipse.
 
 Make sure your build path has JavaFX, JavaFX's required external JARS as well as the proper VM argument in the Run configuration of App.Java
 
-Then go to  ThreeMusketeersGame\src\main\java\assignment2/App.Java and run this file, a JavaFX applicaiton should pop up.
+Then go to ThreeMusketeersGame/src/main/java/assignment2/App.java and run this file, a JavaFX applicaiton should pop up.
 
 Now you can play this game, Enjoy!
