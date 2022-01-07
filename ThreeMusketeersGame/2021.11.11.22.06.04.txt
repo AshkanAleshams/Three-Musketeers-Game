@@ -1,0 +1,7 @@
+  | A B C D E
+--+----------
+1 | O O O O X 
+2 | O O O O O 
+3 | O   O O O 
+4 | O X   O O 
+5 | X O O O O 
